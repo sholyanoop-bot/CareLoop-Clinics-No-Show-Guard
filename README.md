@@ -1,6 +1,6 @@
 # NoShowGuard – Appointment No-Show Analysis
 
-**Public GitHub Repository:** [Paste your GitHub repository link here]
+
 
 ## 1. Four-part project summary
 
